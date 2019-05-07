@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Hellow World Table" language="en" table="x_snc_hellow_world_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Hellow World Table</label>
+            <language>en</language>
+            <name>x_snc_hellow_world_table</name>
+            <plural>Hellow World Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 20:49:52</sys_created_on>
+            <sys_id>aeeb4d9d3c1533007f44bb015835674c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hellow World Table</sys_name>
+            <sys_package display_value="Hellow World" source="x_snc_hellow_world">96eb0d9d3c1533007f44bb015835675f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hellow World">96eb0d9d3c1533007f44bb015835675f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_hellow_world_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 20:49:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
